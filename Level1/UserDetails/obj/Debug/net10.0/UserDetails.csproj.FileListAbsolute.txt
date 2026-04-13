@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\UserDetails\bin\Debug\net10.0\UserDetails.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\UserDetails\bin\Debug\net10.0\UserDetails.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\UserDetails\bin\Debug\net10.0\UserDetails.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\UserDetails\bin\Debug\net10.0\UserDetails.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\UserDetails\bin\Debug\net10.0\UserDetails.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\UserDetails\obj\Debug\net10.0\UserDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\UserDetails\obj\Debug\net10.0\UserDetails.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\UserDetails\obj\Debug\net10.0\UserDetails.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\UserDetails\obj\Debug\net10.0\UserDetails.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\UserDetails\obj\Debug\net10.0\UserDetails.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\UserDetails\obj\Debug\net10.0\UserDetails.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\UserDetails\obj\Debug\net10.0\refint\UserDetails.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\UserDetails\obj\Debug\net10.0\UserDetails.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\UserDetails\obj\Debug\net10.0\UserDetails.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\UserDetails\obj\Debug\net10.0\ref\UserDetails.dll

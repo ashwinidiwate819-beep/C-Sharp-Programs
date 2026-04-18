@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CountDigits\bin\Debug\net10.0\CountDigits.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CountDigits\bin\Debug\net10.0\CountDigits.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CountDigits\bin\Debug\net10.0\CountDigits.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CountDigits\bin\Debug\net10.0\CountDigits.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CountDigits\bin\Debug\net10.0\CountDigits.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CountDigits\obj\Debug\net10.0\CountDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CountDigits\obj\Debug\net10.0\CountDigits.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CountDigits\obj\Debug\net10.0\CountDigits.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CountDigits\obj\Debug\net10.0\CountDigits.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CountDigits\obj\Debug\net10.0\CountDigits.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CountDigits\obj\Debug\net10.0\CountDigits.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CountDigits\obj\Debug\net10.0\refint\CountDigits.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CountDigits\obj\Debug\net10.0\CountDigits.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CountDigits\obj\Debug\net10.0\CountDigits.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CountDigits\obj\Debug\net10.0\ref\CountDigits.dll

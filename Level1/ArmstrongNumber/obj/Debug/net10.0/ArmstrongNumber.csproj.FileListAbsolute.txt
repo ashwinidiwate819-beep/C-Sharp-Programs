@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ArmstrongNumber\bin\Debug\net10.0\ArmstrongNumber.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ArmstrongNumber\bin\Debug\net10.0\ArmstrongNumber.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ArmstrongNumber\bin\Debug\net10.0\ArmstrongNumber.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ArmstrongNumber\bin\Debug\net10.0\ArmstrongNumber.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ArmstrongNumber\bin\Debug\net10.0\ArmstrongNumber.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ArmstrongNumber\obj\Debug\net10.0\ArmstrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ArmstrongNumber\obj\Debug\net10.0\ArmstrongNumber.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ArmstrongNumber\obj\Debug\net10.0\ArmstrongNumber.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ArmstrongNumber\obj\Debug\net10.0\ArmstrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ArmstrongNumber\obj\Debug\net10.0\ArmstrongNumber.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ArmstrongNumber\obj\Debug\net10.0\ArmstrongNumber.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ArmstrongNumber\obj\Debug\net10.0\refint\ArmstrongNumber.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ArmstrongNumber\obj\Debug\net10.0\ArmstrongNumber.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ArmstrongNumber\obj\Debug\net10.0\ArmstrongNumber.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ArmstrongNumber\obj\Debug\net10.0\ref\ArmstrongNumber.dll

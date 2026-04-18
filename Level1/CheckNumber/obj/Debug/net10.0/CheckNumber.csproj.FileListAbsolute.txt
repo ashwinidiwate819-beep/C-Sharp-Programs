@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckNumber\bin\Debug\net10.0\CheckNumber.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckNumber\bin\Debug\net10.0\CheckNumber.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckNumber\bin\Debug\net10.0\CheckNumber.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckNumber\bin\Debug\net10.0\CheckNumber.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckNumber\bin\Debug\net10.0\CheckNumber.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckNumber\obj\Debug\net10.0\CheckNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckNumber\obj\Debug\net10.0\CheckNumber.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckNumber\obj\Debug\net10.0\CheckNumber.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckNumber\obj\Debug\net10.0\CheckNumber.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckNumber\obj\Debug\net10.0\CheckNumber.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckNumber\obj\Debug\net10.0\CheckNumber.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckNumber\obj\Debug\net10.0\refint\CheckNumber.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckNumber\obj\Debug\net10.0\CheckNumber.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckNumber\obj\Debug\net10.0\CheckNumber.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckNumber\obj\Debug\net10.0\ref\CheckNumber.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MaxOfTwoNumbers\bin\Debug\net10.0\AddTwoNum.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MaxOfTwoNumbers\bin\Debug\net10.0\AddTwoNum.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MaxOfTwoNumbers\bin\Debug\net10.0\AddTwoNum.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MaxOfTwoNumbers\bin\Debug\net10.0\AddTwoNum.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MaxOfTwoNumbers\bin\Debug\net10.0\AddTwoNum.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MaxOfTwoNumbers\obj\Debug\net10.0\AddTwoNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MaxOfTwoNumbers\obj\Debug\net10.0\AddTwoNum.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MaxOfTwoNumbers\obj\Debug\net10.0\AddTwoNum.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MaxOfTwoNumbers\obj\Debug\net10.0\AddTwoNum.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MaxOfTwoNumbers\obj\Debug\net10.0\AddTwoNum.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MaxOfTwoNumbers\obj\Debug\net10.0\AddTwoNum.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MaxOfTwoNumbers\obj\Debug\net10.0\refint\AddTwoNum.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MaxOfTwoNumbers\obj\Debug\net10.0\AddTwoNum.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MaxOfTwoNumbers\obj\Debug\net10.0\AddTwoNum.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MaxOfTwoNumbers\obj\Debug\net10.0\ref\AddTwoNum.dll

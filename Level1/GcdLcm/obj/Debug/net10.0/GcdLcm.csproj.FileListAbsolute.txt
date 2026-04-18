@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\GcdLcm\bin\Debug\net10.0\GcdLcm.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\GcdLcm\bin\Debug\net10.0\GcdLcm.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\GcdLcm\bin\Debug\net10.0\GcdLcm.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\GcdLcm\bin\Debug\net10.0\GcdLcm.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\GcdLcm\bin\Debug\net10.0\GcdLcm.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\GcdLcm\obj\Debug\net10.0\GcdLcm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\GcdLcm\obj\Debug\net10.0\GcdLcm.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\GcdLcm\obj\Debug\net10.0\GcdLcm.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\GcdLcm\obj\Debug\net10.0\GcdLcm.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\GcdLcm\obj\Debug\net10.0\GcdLcm.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\GcdLcm\obj\Debug\net10.0\GcdLcm.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\GcdLcm\obj\Debug\net10.0\refint\GcdLcm.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\GcdLcm\obj\Debug\net10.0\GcdLcm.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\GcdLcm\obj\Debug\net10.0\GcdLcm.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\GcdLcm\obj\Debug\net10.0\ref\GcdLcm.dll

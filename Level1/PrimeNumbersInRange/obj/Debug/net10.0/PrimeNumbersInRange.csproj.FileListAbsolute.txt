@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PrimeNumbersInRange\bin\Debug\net10.0\PrimeNumbersInRange.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PrimeNumbersInRange\bin\Debug\net10.0\PrimeNumbersInRange.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PrimeNumbersInRange\bin\Debug\net10.0\PrimeNumbersInRange.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PrimeNumbersInRange\bin\Debug\net10.0\PrimeNumbersInRange.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PrimeNumbersInRange\bin\Debug\net10.0\PrimeNumbersInRange.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PrimeNumbersInRange\obj\Debug\net10.0\PrimeNumbersInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PrimeNumbersInRange\obj\Debug\net10.0\PrimeNumbersInRange.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PrimeNumbersInRange\obj\Debug\net10.0\PrimeNumbersInRange.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PrimeNumbersInRange\obj\Debug\net10.0\PrimeNumbersInRange.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PrimeNumbersInRange\obj\Debug\net10.0\PrimeNumbersInRange.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PrimeNumbersInRange\obj\Debug\net10.0\PrimeNumbersInRange.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PrimeNumbersInRange\obj\Debug\net10.0\refint\PrimeNumbersInRange.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PrimeNumbersInRange\obj\Debug\net10.0\PrimeNumbersInRange.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PrimeNumbersInRange\obj\Debug\net10.0\PrimeNumbersInRange.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PrimeNumbersInRange\obj\Debug\net10.0\ref\PrimeNumbersInRange.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AreaOfRectangle\bin\Debug\net10.0\AreaOfRectangle.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AreaOfRectangle\bin\Debug\net10.0\AreaOfRectangle.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AreaOfRectangle\bin\Debug\net10.0\AreaOfRectangle.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AreaOfRectangle\bin\Debug\net10.0\AreaOfRectangle.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AreaOfRectangle\bin\Debug\net10.0\AreaOfRectangle.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AreaOfRectangle\obj\Debug\net10.0\AreaOfRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AreaOfRectangle\obj\Debug\net10.0\AreaOfRectangle.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AreaOfRectangle\obj\Debug\net10.0\AreaOfRectangle.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AreaOfRectangle\obj\Debug\net10.0\AreaOfRectangle.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AreaOfRectangle\obj\Debug\net10.0\AreaOfRectangle.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AreaOfRectangle\obj\Debug\net10.0\AreaOfRectangle.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AreaOfRectangle\obj\Debug\net10.0\refint\AreaOfRectangle.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AreaOfRectangle\obj\Debug\net10.0\AreaOfRectangle.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AreaOfRectangle\obj\Debug\net10.0\AreaOfRectangle.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AreaOfRectangle\obj\Debug\net10.0\ref\AreaOfRectangle.dll

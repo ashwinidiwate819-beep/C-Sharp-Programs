@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\Factorial\bin\Debug\net10.0\Factorial.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\Factorial\bin\Debug\net10.0\Factorial.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\Factorial\bin\Debug\net10.0\Factorial.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\Factorial\bin\Debug\net10.0\Factorial.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\Factorial\bin\Debug\net10.0\Factorial.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\Factorial\obj\Debug\net10.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\Factorial\obj\Debug\net10.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\Factorial\obj\Debug\net10.0\Factorial.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\Factorial\obj\Debug\net10.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\Factorial\obj\Debug\net10.0\Factorial.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\Factorial\obj\Debug\net10.0\Factorial.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\Factorial\obj\Debug\net10.0\refint\Factorial.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\Factorial\obj\Debug\net10.0\Factorial.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\Factorial\obj\Debug\net10.0\Factorial.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\Factorial\obj\Debug\net10.0\ref\Factorial.dll

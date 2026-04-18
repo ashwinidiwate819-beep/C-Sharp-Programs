@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SimpleInterest\bin\Debug\net10.0\SimpleInterest.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SimpleInterest\bin\Debug\net10.0\SimpleInterest.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SimpleInterest\bin\Debug\net10.0\SimpleInterest.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SimpleInterest\bin\Debug\net10.0\SimpleInterest.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SimpleInterest\bin\Debug\net10.0\SimpleInterest.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SimpleInterest\obj\Debug\net10.0\SimpleInterest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SimpleInterest\obj\Debug\net10.0\SimpleInterest.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SimpleInterest\obj\Debug\net10.0\SimpleInterest.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SimpleInterest\obj\Debug\net10.0\SimpleInterest.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SimpleInterest\obj\Debug\net10.0\SimpleInterest.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SimpleInterest\obj\Debug\net10.0\SimpleInterest.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SimpleInterest\obj\Debug\net10.0\refint\SimpleInterest.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SimpleInterest\obj\Debug\net10.0\SimpleInterest.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SimpleInterest\obj\Debug\net10.0\SimpleInterest.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SimpleInterest\obj\Debug\net10.0\ref\SimpleInterest.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CelsiusToFahrenheit\bin\Debug\net10.0\CelsiusToFahrenheit.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CelsiusToFahrenheit\bin\Debug\net10.0\CelsiusToFahrenheit.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CelsiusToFahrenheit\bin\Debug\net10.0\CelsiusToFahrenheit.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CelsiusToFahrenheit\bin\Debug\net10.0\CelsiusToFahrenheit.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CelsiusToFahrenheit\bin\Debug\net10.0\CelsiusToFahrenheit.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CelsiusToFahrenheit\obj\Debug\net10.0\CelsiusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CelsiusToFahrenheit\obj\Debug\net10.0\CelsiusToFahrenheit.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CelsiusToFahrenheit\obj\Debug\net10.0\CelsiusToFahrenheit.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CelsiusToFahrenheit\obj\Debug\net10.0\CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CelsiusToFahrenheit\obj\Debug\net10.0\CelsiusToFahrenheit.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CelsiusToFahrenheit\obj\Debug\net10.0\CelsiusToFahrenheit.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CelsiusToFahrenheit\obj\Debug\net10.0\refint\CelsiusToFahrenheit.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CelsiusToFahrenheit\obj\Debug\net10.0\CelsiusToFahrenheit.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CelsiusToFahrenheit\obj\Debug\net10.0\CelsiusToFahrenheit.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CelsiusToFahrenheit\obj\Debug\net10.0\ref\CelsiusToFahrenheit.dll

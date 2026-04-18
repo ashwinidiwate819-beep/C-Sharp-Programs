@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckPrimeNumber\bin\Debug\net10.0\CheckPrimeNumber.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckPrimeNumber\bin\Debug\net10.0\CheckPrimeNumber.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckPrimeNumber\bin\Debug\net10.0\CheckPrimeNumber.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckPrimeNumber\bin\Debug\net10.0\CheckPrimeNumber.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckPrimeNumber\bin\Debug\net10.0\CheckPrimeNumber.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckPrimeNumber\obj\Debug\net10.0\CheckPrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckPrimeNumber\obj\Debug\net10.0\CheckPrimeNumber.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckPrimeNumber\obj\Debug\net10.0\CheckPrimeNumber.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckPrimeNumber\obj\Debug\net10.0\CheckPrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckPrimeNumber\obj\Debug\net10.0\CheckPrimeNumber.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckPrimeNumber\obj\Debug\net10.0\CheckPrimeNumber.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckPrimeNumber\obj\Debug\net10.0\refint\CheckPrimeNumber.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckPrimeNumber\obj\Debug\net10.0\CheckPrimeNumber.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckPrimeNumber\obj\Debug\net10.0\CheckPrimeNumber.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\CheckPrimeNumber\obj\Debug\net10.0\ref\CheckPrimeNumber.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\LargestOfThree\bin\Debug\net10.0\LargestOfThree.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\LargestOfThree\bin\Debug\net10.0\LargestOfThree.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\LargestOfThree\bin\Debug\net10.0\LargestOfThree.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\LargestOfThree\bin\Debug\net10.0\LargestOfThree.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\LargestOfThree\bin\Debug\net10.0\LargestOfThree.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\LargestOfThree\obj\Debug\net10.0\LargestOfThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\LargestOfThree\obj\Debug\net10.0\LargestOfThree.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\LargestOfThree\obj\Debug\net10.0\LargestOfThree.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\LargestOfThree\obj\Debug\net10.0\LargestOfThree.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\LargestOfThree\obj\Debug\net10.0\LargestOfThree.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\LargestOfThree\obj\Debug\net10.0\LargestOfThree.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\LargestOfThree\obj\Debug\net10.0\refint\LargestOfThree.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\LargestOfThree\obj\Debug\net10.0\LargestOfThree.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\LargestOfThree\obj\Debug\net10.0\LargestOfThree.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\LargestOfThree\obj\Debug\net10.0\ref\LargestOfThree.dll

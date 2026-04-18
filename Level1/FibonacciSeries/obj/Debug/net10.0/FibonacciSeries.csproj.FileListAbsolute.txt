@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\FibonacciSeries\bin\Debug\net10.0\FibonacciSeries.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\FibonacciSeries\bin\Debug\net10.0\FibonacciSeries.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\FibonacciSeries\bin\Debug\net10.0\FibonacciSeries.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\FibonacciSeries\bin\Debug\net10.0\FibonacciSeries.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\FibonacciSeries\bin\Debug\net10.0\FibonacciSeries.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\FibonacciSeries\obj\Debug\net10.0\FibonacciSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\FibonacciSeries\obj\Debug\net10.0\FibonacciSeries.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\FibonacciSeries\obj\Debug\net10.0\FibonacciSeries.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\FibonacciSeries\obj\Debug\net10.0\FibonacciSeries.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\FibonacciSeries\obj\Debug\net10.0\FibonacciSeries.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\FibonacciSeries\obj\Debug\net10.0\FibonacciSeries.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\FibonacciSeries\obj\Debug\net10.0\refint\FibonacciSeries.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\FibonacciSeries\obj\Debug\net10.0\FibonacciSeries.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\FibonacciSeries\obj\Debug\net10.0\FibonacciSeries.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\FibonacciSeries\obj\Debug\net10.0\ref\FibonacciSeries.dll

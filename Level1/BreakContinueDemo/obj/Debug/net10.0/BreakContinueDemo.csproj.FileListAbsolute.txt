@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\BreakContinueDemo\bin\Debug\net10.0\BreakContinueDemo.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\BreakContinueDemo\bin\Debug\net10.0\BreakContinueDemo.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\BreakContinueDemo\bin\Debug\net10.0\BreakContinueDemo.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\BreakContinueDemo\bin\Debug\net10.0\BreakContinueDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\BreakContinueDemo\bin\Debug\net10.0\BreakContinueDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\BreakContinueDemo\obj\Debug\net10.0\BreakContinueDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\BreakContinueDemo\obj\Debug\net10.0\BreakContinueDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\BreakContinueDemo\obj\Debug\net10.0\BreakContinueDemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\BreakContinueDemo\obj\Debug\net10.0\BreakContinueDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\BreakContinueDemo\obj\Debug\net10.0\BreakContinueDemo.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\BreakContinueDemo\obj\Debug\net10.0\BreakContinueDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\BreakContinueDemo\obj\Debug\net10.0\refint\BreakContinueDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\BreakContinueDemo\obj\Debug\net10.0\BreakContinueDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\BreakContinueDemo\obj\Debug\net10.0\BreakContinueDemo.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\BreakContinueDemo\obj\Debug\net10.0\ref\BreakContinueDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SwitchCaseDemo\bin\Debug\net10.0\SwitchCaseDemo.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SwitchCaseDemo\bin\Debug\net10.0\SwitchCaseDemo.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SwitchCaseDemo\bin\Debug\net10.0\SwitchCaseDemo.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SwitchCaseDemo\bin\Debug\net10.0\SwitchCaseDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SwitchCaseDemo\bin\Debug\net10.0\SwitchCaseDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SwitchCaseDemo\obj\Debug\net10.0\SwitchCaseDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SwitchCaseDemo\obj\Debug\net10.0\SwitchCaseDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SwitchCaseDemo\obj\Debug\net10.0\SwitchCaseDemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SwitchCaseDemo\obj\Debug\net10.0\SwitchCaseDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SwitchCaseDemo\obj\Debug\net10.0\SwitchCaseDemo.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SwitchCaseDemo\obj\Debug\net10.0\SwitchCaseDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SwitchCaseDemo\obj\Debug\net10.0\refint\SwitchCaseDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SwitchCaseDemo\obj\Debug\net10.0\SwitchCaseDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SwitchCaseDemo\obj\Debug\net10.0\SwitchCaseDemo.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SwitchCaseDemo\obj\Debug\net10.0\ref\SwitchCaseDemo.dll

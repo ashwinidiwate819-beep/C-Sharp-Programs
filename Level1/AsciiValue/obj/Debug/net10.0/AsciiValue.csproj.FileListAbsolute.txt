@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AsciiValue\bin\Debug\net10.0\AsciiValue.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AsciiValue\bin\Debug\net10.0\AsciiValue.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AsciiValue\bin\Debug\net10.0\AsciiValue.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AsciiValue\bin\Debug\net10.0\AsciiValue.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AsciiValue\bin\Debug\net10.0\AsciiValue.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AsciiValue\obj\Debug\net10.0\AsciiValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AsciiValue\obj\Debug\net10.0\AsciiValue.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AsciiValue\obj\Debug\net10.0\AsciiValue.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AsciiValue\obj\Debug\net10.0\AsciiValue.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AsciiValue\obj\Debug\net10.0\AsciiValue.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AsciiValue\obj\Debug\net10.0\AsciiValue.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AsciiValue\obj\Debug\net10.0\refint\AsciiValue.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AsciiValue\obj\Debug\net10.0\AsciiValue.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AsciiValue\obj\Debug\net10.0\AsciiValue.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\AsciiValue\obj\Debug\net10.0\ref\AsciiValue.dll

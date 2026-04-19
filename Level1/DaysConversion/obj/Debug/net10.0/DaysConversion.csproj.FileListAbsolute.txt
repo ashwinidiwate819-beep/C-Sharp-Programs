@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DaysConversion\bin\Debug\net10.0\DaysConversion.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DaysConversion\bin\Debug\net10.0\DaysConversion.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DaysConversion\bin\Debug\net10.0\DaysConversion.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DaysConversion\bin\Debug\net10.0\DaysConversion.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DaysConversion\bin\Debug\net10.0\DaysConversion.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DaysConversion\obj\Debug\net10.0\DaysConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DaysConversion\obj\Debug\net10.0\DaysConversion.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DaysConversion\obj\Debug\net10.0\DaysConversion.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DaysConversion\obj\Debug\net10.0\DaysConversion.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DaysConversion\obj\Debug\net10.0\DaysConversion.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DaysConversion\obj\Debug\net10.0\DaysConversion.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DaysConversion\obj\Debug\net10.0\refint\DaysConversion.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DaysConversion\obj\Debug\net10.0\DaysConversion.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DaysConversion\obj\Debug\net10.0\DaysConversion.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DaysConversion\obj\Debug\net10.0\ref\DaysConversion.dll

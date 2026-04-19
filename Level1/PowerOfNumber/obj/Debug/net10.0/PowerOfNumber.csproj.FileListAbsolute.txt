@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PowerOfNumber\bin\Debug\net10.0\PowerOfNumber.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PowerOfNumber\bin\Debug\net10.0\PowerOfNumber.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PowerOfNumber\bin\Debug\net10.0\PowerOfNumber.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PowerOfNumber\bin\Debug\net10.0\PowerOfNumber.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PowerOfNumber\bin\Debug\net10.0\PowerOfNumber.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PowerOfNumber\obj\Debug\net10.0\PowerOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PowerOfNumber\obj\Debug\net10.0\PowerOfNumber.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PowerOfNumber\obj\Debug\net10.0\PowerOfNumber.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PowerOfNumber\obj\Debug\net10.0\PowerOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PowerOfNumber\obj\Debug\net10.0\PowerOfNumber.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PowerOfNumber\obj\Debug\net10.0\PowerOfNumber.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PowerOfNumber\obj\Debug\net10.0\refint\PowerOfNumber.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PowerOfNumber\obj\Debug\net10.0\PowerOfNumber.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PowerOfNumber\obj\Debug\net10.0\PowerOfNumber.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\PowerOfNumber\obj\Debug\net10.0\ref\PowerOfNumber.dll

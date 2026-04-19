@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DateTimeDemo\bin\Debug\net10.0\DateTimeDemo.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DateTimeDemo\bin\Debug\net10.0\DateTimeDemo.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DateTimeDemo\bin\Debug\net10.0\DateTimeDemo.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DateTimeDemo\bin\Debug\net10.0\DateTimeDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DateTimeDemo\bin\Debug\net10.0\DateTimeDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DateTimeDemo\obj\Debug\net10.0\DateTimeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DateTimeDemo\obj\Debug\net10.0\DateTimeDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DateTimeDemo\obj\Debug\net10.0\DateTimeDemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DateTimeDemo\obj\Debug\net10.0\DateTimeDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DateTimeDemo\obj\Debug\net10.0\DateTimeDemo.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DateTimeDemo\obj\Debug\net10.0\DateTimeDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DateTimeDemo\obj\Debug\net10.0\refint\DateTimeDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DateTimeDemo\obj\Debug\net10.0\DateTimeDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DateTimeDemo\obj\Debug\net10.0\DateTimeDemo.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\DateTimeDemo\obj\Debug\net10.0\ref\DateTimeDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\WhileLoopDemo\bin\Debug\net10.0\WhileLoopDemo.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\WhileLoopDemo\bin\Debug\net10.0\WhileLoopDemo.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\WhileLoopDemo\bin\Debug\net10.0\WhileLoopDemo.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\WhileLoopDemo\bin\Debug\net10.0\WhileLoopDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\WhileLoopDemo\bin\Debug\net10.0\WhileLoopDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\WhileLoopDemo\obj\Debug\net10.0\WhileLoopDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\WhileLoopDemo\obj\Debug\net10.0\WhileLoopDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\WhileLoopDemo\obj\Debug\net10.0\WhileLoopDemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\WhileLoopDemo\obj\Debug\net10.0\WhileLoopDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\WhileLoopDemo\obj\Debug\net10.0\WhileLoopDemo.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\WhileLoopDemo\obj\Debug\net10.0\WhileLoopDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\WhileLoopDemo\obj\Debug\net10.0\refint\WhileLoopDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\WhileLoopDemo\obj\Debug\net10.0\WhileLoopDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\WhileLoopDemo\obj\Debug\net10.0\WhileLoopDemo.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\WhileLoopDemo\obj\Debug\net10.0\ref\WhileLoopDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\TupleDemo\bin\Debug\net10.0\TupleDemo.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\TupleDemo\bin\Debug\net10.0\TupleDemo.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\TupleDemo\bin\Debug\net10.0\TupleDemo.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\TupleDemo\bin\Debug\net10.0\TupleDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\TupleDemo\bin\Debug\net10.0\TupleDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\TupleDemo\obj\Debug\net10.0\TupleDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\TupleDemo\obj\Debug\net10.0\TupleDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\TupleDemo\obj\Debug\net10.0\TupleDemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\TupleDemo\obj\Debug\net10.0\TupleDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\TupleDemo\obj\Debug\net10.0\TupleDemo.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\TupleDemo\obj\Debug\net10.0\TupleDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\TupleDemo\obj\Debug\net10.0\refint\TupleDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\TupleDemo\obj\Debug\net10.0\TupleDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\TupleDemo\obj\Debug\net10.0\TupleDemo.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\TupleDemo\obj\Debug\net10.0\ref\TupleDemo.dll

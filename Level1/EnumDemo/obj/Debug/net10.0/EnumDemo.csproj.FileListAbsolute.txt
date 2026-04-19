@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\EnumDemo\bin\Debug\net10.0\EnumDemo.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\EnumDemo\bin\Debug\net10.0\EnumDemo.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\EnumDemo\bin\Debug\net10.0\EnumDemo.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\EnumDemo\bin\Debug\net10.0\EnumDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\EnumDemo\bin\Debug\net10.0\EnumDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\EnumDemo\obj\Debug\net10.0\EnumDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\EnumDemo\obj\Debug\net10.0\EnumDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\EnumDemo\obj\Debug\net10.0\EnumDemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\EnumDemo\obj\Debug\net10.0\EnumDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\EnumDemo\obj\Debug\net10.0\EnumDemo.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\EnumDemo\obj\Debug\net10.0\EnumDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\EnumDemo\obj\Debug\net10.0\refint\EnumDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\EnumDemo\obj\Debug\net10.0\EnumDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\EnumDemo\obj\Debug\net10.0\EnumDemo.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\EnumDemo\obj\Debug\net10.0\ref\EnumDemo.dll

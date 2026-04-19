@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StarPattern\bin\Debug\net10.0\StarPattern.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StarPattern\bin\Debug\net10.0\StarPattern.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StarPattern\bin\Debug\net10.0\StarPattern.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StarPattern\bin\Debug\net10.0\StarPattern.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StarPattern\bin\Debug\net10.0\StarPattern.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StarPattern\obj\Debug\net10.0\StarPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StarPattern\obj\Debug\net10.0\StarPattern.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StarPattern\obj\Debug\net10.0\StarPattern.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StarPattern\obj\Debug\net10.0\StarPattern.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StarPattern\obj\Debug\net10.0\StarPattern.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StarPattern\obj\Debug\net10.0\StarPattern.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StarPattern\obj\Debug\net10.0\refint\StarPattern.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StarPattern\obj\Debug\net10.0\StarPattern.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StarPattern\obj\Debug\net10.0\StarPattern.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StarPattern\obj\Debug\net10.0\ref\StarPattern.dll

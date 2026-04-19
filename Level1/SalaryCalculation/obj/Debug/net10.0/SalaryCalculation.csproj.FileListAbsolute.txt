@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SalaryCalculation\bin\Debug\net10.0\SalaryCalculation.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SalaryCalculation\bin\Debug\net10.0\SalaryCalculation.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SalaryCalculation\bin\Debug\net10.0\SalaryCalculation.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SalaryCalculation\bin\Debug\net10.0\SalaryCalculation.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SalaryCalculation\bin\Debug\net10.0\SalaryCalculation.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SalaryCalculation\obj\Debug\net10.0\SalaryCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SalaryCalculation\obj\Debug\net10.0\SalaryCalculation.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SalaryCalculation\obj\Debug\net10.0\SalaryCalculation.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SalaryCalculation\obj\Debug\net10.0\SalaryCalculation.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SalaryCalculation\obj\Debug\net10.0\SalaryCalculation.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SalaryCalculation\obj\Debug\net10.0\SalaryCalculation.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SalaryCalculation\obj\Debug\net10.0\refint\SalaryCalculation.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SalaryCalculation\obj\Debug\net10.0\SalaryCalculation.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SalaryCalculation\obj\Debug\net10.0\SalaryCalculation.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SalaryCalculation\obj\Debug\net10.0\ref\SalaryCalculation.dll

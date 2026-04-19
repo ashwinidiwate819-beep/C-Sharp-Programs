@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MathClassDemo\bin\Debug\net10.0\MathClassDemo.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MathClassDemo\bin\Debug\net10.0\MathClassDemo.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MathClassDemo\bin\Debug\net10.0\MathClassDemo.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MathClassDemo\bin\Debug\net10.0\MathClassDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MathClassDemo\bin\Debug\net10.0\MathClassDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MathClassDemo\obj\Debug\net10.0\MathClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MathClassDemo\obj\Debug\net10.0\MathClassDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MathClassDemo\obj\Debug\net10.0\MathClassDemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MathClassDemo\obj\Debug\net10.0\MathClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MathClassDemo\obj\Debug\net10.0\MathClassDemo.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MathClassDemo\obj\Debug\net10.0\MathClassDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MathClassDemo\obj\Debug\net10.0\refint\MathClassDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MathClassDemo\obj\Debug\net10.0\MathClassDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MathClassDemo\obj\Debug\net10.0\MathClassDemo.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\MathClassDemo\obj\Debug\net10.0\ref\MathClassDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StudentGrade\bin\Debug\net10.0\StudentGrade.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StudentGrade\bin\Debug\net10.0\StudentGrade.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StudentGrade\bin\Debug\net10.0\StudentGrade.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StudentGrade\bin\Debug\net10.0\StudentGrade.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StudentGrade\bin\Debug\net10.0\StudentGrade.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StudentGrade\obj\Debug\net10.0\StudentGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StudentGrade\obj\Debug\net10.0\StudentGrade.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StudentGrade\obj\Debug\net10.0\StudentGrade.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StudentGrade\obj\Debug\net10.0\StudentGrade.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StudentGrade\obj\Debug\net10.0\StudentGrade.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StudentGrade\obj\Debug\net10.0\StudentGrade.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StudentGrade\obj\Debug\net10.0\refint\StudentGrade.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StudentGrade\obj\Debug\net10.0\StudentGrade.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StudentGrade\obj\Debug\net10.0\StudentGrade.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StudentGrade\obj\Debug\net10.0\ref\StudentGrade.dll

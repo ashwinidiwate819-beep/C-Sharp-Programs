@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ConstReadonlyDemo\bin\Debug\net10.0\ConstReadonlyDemo.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ConstReadonlyDemo\bin\Debug\net10.0\ConstReadonlyDemo.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ConstReadonlyDemo\bin\Debug\net10.0\ConstReadonlyDemo.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ConstReadonlyDemo\bin\Debug\net10.0\ConstReadonlyDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ConstReadonlyDemo\bin\Debug\net10.0\ConstReadonlyDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ConstReadonlyDemo\obj\Debug\net10.0\ConstReadonlyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ConstReadonlyDemo\obj\Debug\net10.0\ConstReadonlyDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ConstReadonlyDemo\obj\Debug\net10.0\ConstReadonlyDemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ConstReadonlyDemo\obj\Debug\net10.0\ConstReadonlyDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ConstReadonlyDemo\obj\Debug\net10.0\ConstReadonlyDemo.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ConstReadonlyDemo\obj\Debug\net10.0\ConstReadonlyDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ConstReadonlyDemo\obj\Debug\net10.0\refint\ConstReadonlyDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ConstReadonlyDemo\obj\Debug\net10.0\ConstReadonlyDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ConstReadonlyDemo\obj\Debug\net10.0\ConstReadonlyDemo.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\ConstReadonlyDemo\obj\Debug\net10.0\ref\ConstReadonlyDemo.dll

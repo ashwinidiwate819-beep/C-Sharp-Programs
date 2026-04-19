@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\RandomNumber\bin\Debug\net10.0\RandomNumber.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\RandomNumber\bin\Debug\net10.0\RandomNumber.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\RandomNumber\bin\Debug\net10.0\RandomNumber.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\RandomNumber\bin\Debug\net10.0\RandomNumber.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\RandomNumber\bin\Debug\net10.0\RandomNumber.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\RandomNumber\obj\Debug\net10.0\RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\RandomNumber\obj\Debug\net10.0\RandomNumber.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\RandomNumber\obj\Debug\net10.0\RandomNumber.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\RandomNumber\obj\Debug\net10.0\RandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\RandomNumber\obj\Debug\net10.0\RandomNumber.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\RandomNumber\obj\Debug\net10.0\RandomNumber.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\RandomNumber\obj\Debug\net10.0\refint\RandomNumber.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\RandomNumber\obj\Debug\net10.0\RandomNumber.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\RandomNumber\obj\Debug\net10.0\RandomNumber.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\RandomNumber\obj\Debug\net10.0\ref\RandomNumber.dll

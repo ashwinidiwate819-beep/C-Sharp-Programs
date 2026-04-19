@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StringInterpolation\bin\Debug\net10.0\StringInterpolation.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StringInterpolation\bin\Debug\net10.0\StringInterpolation.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StringInterpolation\bin\Debug\net10.0\StringInterpolation.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StringInterpolation\bin\Debug\net10.0\StringInterpolation.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StringInterpolation\bin\Debug\net10.0\StringInterpolation.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StringInterpolation\obj\Debug\net10.0\StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StringInterpolation\obj\Debug\net10.0\StringInterpolation.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StringInterpolation\obj\Debug\net10.0\StringInterpolation.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StringInterpolation\obj\Debug\net10.0\StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StringInterpolation\obj\Debug\net10.0\StringInterpolation.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StringInterpolation\obj\Debug\net10.0\StringInterpolation.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StringInterpolation\obj\Debug\net10.0\refint\StringInterpolation.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StringInterpolation\obj\Debug\net10.0\StringInterpolation.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StringInterpolation\obj\Debug\net10.0\StringInterpolation.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\StringInterpolation\obj\Debug\net10.0\ref\StringInterpolation.dll

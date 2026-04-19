@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SumNaturalNumbers\bin\Debug\net10.0\SumNaturalNumbers.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SumNaturalNumbers\bin\Debug\net10.0\SumNaturalNumbers.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SumNaturalNumbers\bin\Debug\net10.0\SumNaturalNumbers.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SumNaturalNumbers\bin\Debug\net10.0\SumNaturalNumbers.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SumNaturalNumbers\bin\Debug\net10.0\SumNaturalNumbers.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SumNaturalNumbers\obj\Debug\net10.0\SumNaturalNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SumNaturalNumbers\obj\Debug\net10.0\SumNaturalNumbers.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SumNaturalNumbers\obj\Debug\net10.0\SumNaturalNumbers.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SumNaturalNumbers\obj\Debug\net10.0\SumNaturalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SumNaturalNumbers\obj\Debug\net10.0\SumNaturalNumbers.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SumNaturalNumbers\obj\Debug\net10.0\SumNaturalNumbers.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SumNaturalNumbers\obj\Debug\net10.0\refint\SumNaturalNumbers.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SumNaturalNumbers\obj\Debug\net10.0\SumNaturalNumbers.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SumNaturalNumbers\obj\Debug\net10.0\SumNaturalNumbers.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level1\SumNaturalNumbers\obj\Debug\net10.0\ref\SumNaturalNumbers.dll

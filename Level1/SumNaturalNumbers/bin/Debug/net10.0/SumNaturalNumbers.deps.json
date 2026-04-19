@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SumNaturalNumbers/1.0.0": {
+        "runtime": {
+          "SumNaturalNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SumNaturalNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

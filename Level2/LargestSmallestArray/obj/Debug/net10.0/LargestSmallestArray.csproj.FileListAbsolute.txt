@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\LargestSmallestArray\bin\Debug\net10.0\LargestSmallestArray.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\LargestSmallestArray\bin\Debug\net10.0\LargestSmallestArray.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\LargestSmallestArray\bin\Debug\net10.0\LargestSmallestArray.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\LargestSmallestArray\bin\Debug\net10.0\LargestSmallestArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\LargestSmallestArray\bin\Debug\net10.0\LargestSmallestArray.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\LargestSmallestArray\obj\Debug\net10.0\LargestSmallestArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\LargestSmallestArray\obj\Debug\net10.0\LargestSmallestArray.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\LargestSmallestArray\obj\Debug\net10.0\LargestSmallestArray.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\LargestSmallestArray\obj\Debug\net10.0\LargestSmallestArray.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\LargestSmallestArray\obj\Debug\net10.0\LargestSmallestArray.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\LargestSmallestArray\obj\Debug\net10.0\LargestSmallestArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\LargestSmallestArray\obj\Debug\net10.0\refint\LargestSmallestArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\LargestSmallestArray\obj\Debug\net10.0\LargestSmallestArray.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\LargestSmallestArray\obj\Debug\net10.0\LargestSmallestArray.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\LargestSmallestArray\obj\Debug\net10.0\ref\LargestSmallestArray.dll

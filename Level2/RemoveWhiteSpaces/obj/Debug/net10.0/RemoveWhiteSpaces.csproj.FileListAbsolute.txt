@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveWhiteSpaces\bin\Debug\net10.0\RemoveWhiteSpaces.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveWhiteSpaces\bin\Debug\net10.0\RemoveWhiteSpaces.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveWhiteSpaces\bin\Debug\net10.0\RemoveWhiteSpaces.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveWhiteSpaces\bin\Debug\net10.0\RemoveWhiteSpaces.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveWhiteSpaces\bin\Debug\net10.0\RemoveWhiteSpaces.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveWhiteSpaces\obj\Debug\net10.0\RemoveWhiteSpaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveWhiteSpaces\obj\Debug\net10.0\RemoveWhiteSpaces.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveWhiteSpaces\obj\Debug\net10.0\RemoveWhiteSpaces.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveWhiteSpaces\obj\Debug\net10.0\RemoveWhiteSpaces.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveWhiteSpaces\obj\Debug\net10.0\RemoveWhiteSpaces.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveWhiteSpaces\obj\Debug\net10.0\RemoveWhiteSpaces.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveWhiteSpaces\obj\Debug\net10.0\refint\RemoveWhiteSpaces.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveWhiteSpaces\obj\Debug\net10.0\RemoveWhiteSpaces.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveWhiteSpaces\obj\Debug\net10.0\RemoveWhiteSpaces.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveWhiteSpaces\obj\Debug\net10.0\ref\RemoveWhiteSpaces.dll

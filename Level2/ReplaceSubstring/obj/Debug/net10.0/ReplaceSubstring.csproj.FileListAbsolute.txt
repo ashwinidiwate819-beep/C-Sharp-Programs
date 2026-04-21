@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReplaceSubstring\bin\Debug\net10.0\ReplaceSubstring.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReplaceSubstring\bin\Debug\net10.0\ReplaceSubstring.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReplaceSubstring\bin\Debug\net10.0\ReplaceSubstring.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReplaceSubstring\bin\Debug\net10.0\ReplaceSubstring.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReplaceSubstring\bin\Debug\net10.0\ReplaceSubstring.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReplaceSubstring\obj\Debug\net10.0\ReplaceSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReplaceSubstring\obj\Debug\net10.0\ReplaceSubstring.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReplaceSubstring\obj\Debug\net10.0\ReplaceSubstring.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReplaceSubstring\obj\Debug\net10.0\ReplaceSubstring.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReplaceSubstring\obj\Debug\net10.0\ReplaceSubstring.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReplaceSubstring\obj\Debug\net10.0\ReplaceSubstring.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReplaceSubstring\obj\Debug\net10.0\refint\ReplaceSubstring.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReplaceSubstring\obj\Debug\net10.0\ReplaceSubstring.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReplaceSubstring\obj\Debug\net10.0\ReplaceSubstring.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReplaceSubstring\obj\Debug\net10.0\ref\ReplaceSubstring.dll

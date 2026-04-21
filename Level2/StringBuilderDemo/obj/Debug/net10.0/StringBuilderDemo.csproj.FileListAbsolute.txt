@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringBuilderDemo\bin\Debug\net10.0\StringBuilderDemo.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringBuilderDemo\bin\Debug\net10.0\StringBuilderDemo.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringBuilderDemo\bin\Debug\net10.0\StringBuilderDemo.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringBuilderDemo\bin\Debug\net10.0\StringBuilderDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringBuilderDemo\bin\Debug\net10.0\StringBuilderDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringBuilderDemo\obj\Debug\net10.0\refint\StringBuilderDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringBuilderDemo\obj\Debug\net10.0\ref\StringBuilderDemo.dll

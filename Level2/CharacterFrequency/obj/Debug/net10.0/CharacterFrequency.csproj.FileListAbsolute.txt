@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CharacterFrequency\bin\Debug\net10.0\CharacterFrequency.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CharacterFrequency\bin\Debug\net10.0\CharacterFrequency.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CharacterFrequency\bin\Debug\net10.0\CharacterFrequency.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CharacterFrequency\bin\Debug\net10.0\CharacterFrequency.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CharacterFrequency\bin\Debug\net10.0\CharacterFrequency.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CharacterFrequency\obj\Debug\net10.0\CharacterFrequency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CharacterFrequency\obj\Debug\net10.0\CharacterFrequency.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CharacterFrequency\obj\Debug\net10.0\CharacterFrequency.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CharacterFrequency\obj\Debug\net10.0\CharacterFrequency.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CharacterFrequency\obj\Debug\net10.0\CharacterFrequency.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CharacterFrequency\obj\Debug\net10.0\CharacterFrequency.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CharacterFrequency\obj\Debug\net10.0\refint\CharacterFrequency.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CharacterFrequency\obj\Debug\net10.0\CharacterFrequency.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CharacterFrequency\obj\Debug\net10.0\CharacterFrequency.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CharacterFrequency\obj\Debug\net10.0\ref\CharacterFrequency.dll

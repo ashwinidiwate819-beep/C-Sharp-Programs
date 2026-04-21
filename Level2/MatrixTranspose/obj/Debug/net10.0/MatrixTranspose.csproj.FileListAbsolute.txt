@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MatrixTranspose\bin\Debug\net10.0\MatrixTranspose.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MatrixTranspose\bin\Debug\net10.0\MatrixTranspose.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MatrixTranspose\bin\Debug\net10.0\MatrixTranspose.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MatrixTranspose\bin\Debug\net10.0\MatrixTranspose.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MatrixTranspose\bin\Debug\net10.0\MatrixTranspose.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MatrixTranspose\obj\Debug\net10.0\MatrixTranspose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MatrixTranspose\obj\Debug\net10.0\MatrixTranspose.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MatrixTranspose\obj\Debug\net10.0\MatrixTranspose.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MatrixTranspose\obj\Debug\net10.0\MatrixTranspose.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MatrixTranspose\obj\Debug\net10.0\MatrixTranspose.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MatrixTranspose\obj\Debug\net10.0\MatrixTranspose.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MatrixTranspose\obj\Debug\net10.0\refint\MatrixTranspose.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MatrixTranspose\obj\Debug\net10.0\MatrixTranspose.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MatrixTranspose\obj\Debug\net10.0\MatrixTranspose.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MatrixTranspose\obj\Debug\net10.0\ref\MatrixTranspose.dll

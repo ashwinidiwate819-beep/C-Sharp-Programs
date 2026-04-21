@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CompareStrings\bin\Debug\net10.0\CompareStrings.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CompareStrings\bin\Debug\net10.0\CompareStrings.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CompareStrings\bin\Debug\net10.0\CompareStrings.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CompareStrings\bin\Debug\net10.0\CompareStrings.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CompareStrings\bin\Debug\net10.0\CompareStrings.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CompareStrings\obj\Debug\net10.0\CompareStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CompareStrings\obj\Debug\net10.0\CompareStrings.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CompareStrings\obj\Debug\net10.0\CompareStrings.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CompareStrings\obj\Debug\net10.0\CompareStrings.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CompareStrings\obj\Debug\net10.0\CompareStrings.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CompareStrings\obj\Debug\net10.0\CompareStrings.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CompareStrings\obj\Debug\net10.0\refint\CompareStrings.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CompareStrings\obj\Debug\net10.0\CompareStrings.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CompareStrings\obj\Debug\net10.0\CompareStrings.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CompareStrings\obj\Debug\net10.0\ref\CompareStrings.dll

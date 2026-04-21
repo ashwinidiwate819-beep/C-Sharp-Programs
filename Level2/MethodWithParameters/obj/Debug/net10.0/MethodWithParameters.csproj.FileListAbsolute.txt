@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MethodwithParameters\bin\Debug\net10.0\MethodWithParameters.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MethodwithParameters\bin\Debug\net10.0\MethodWithParameters.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MethodwithParameters\bin\Debug\net10.0\MethodWithParameters.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MethodwithParameters\bin\Debug\net10.0\MethodWithParameters.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MethodwithParameters\bin\Debug\net10.0\MethodWithParameters.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MethodwithParameters\obj\Debug\net10.0\MethodWithParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MethodwithParameters\obj\Debug\net10.0\MethodWithParameters.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MethodwithParameters\obj\Debug\net10.0\MethodWithParameters.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MethodwithParameters\obj\Debug\net10.0\MethodWithParameters.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MethodwithParameters\obj\Debug\net10.0\MethodWithParameters.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MethodwithParameters\obj\Debug\net10.0\MethodWithParameters.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MethodwithParameters\obj\Debug\net10.0\refint\MethodWithParameters.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MethodwithParameters\obj\Debug\net10.0\MethodWithParameters.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MethodwithParameters\obj\Debug\net10.0\MethodWithParameters.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MethodwithParameters\obj\Debug\net10.0\ref\MethodWithParameters.dll

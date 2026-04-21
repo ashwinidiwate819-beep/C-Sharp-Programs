@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReverseArray\bin\Debug\net10.0\ReverseArray.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReverseArray\bin\Debug\net10.0\ReverseArray.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReverseArray\bin\Debug\net10.0\ReverseArray.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReverseArray\bin\Debug\net10.0\ReverseArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReverseArray\bin\Debug\net10.0\ReverseArray.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReverseArray\obj\Debug\net10.0\ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReverseArray\obj\Debug\net10.0\ReverseArray.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReverseArray\obj\Debug\net10.0\ReverseArray.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReverseArray\obj\Debug\net10.0\ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReverseArray\obj\Debug\net10.0\ReverseArray.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReverseArray\obj\Debug\net10.0\ReverseArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReverseArray\obj\Debug\net10.0\refint\ReverseArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReverseArray\obj\Debug\net10.0\ReverseArray.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReverseArray\obj\Debug\net10.0\ReverseArray.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReverseArray\obj\Debug\net10.0\ref\ReverseArray.dll

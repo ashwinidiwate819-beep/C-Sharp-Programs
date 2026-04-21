@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RecursionDemo\bin\Debug\net10.0\RecursionDemo.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RecursionDemo\bin\Debug\net10.0\RecursionDemo.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RecursionDemo\bin\Debug\net10.0\RecursionDemo.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RecursionDemo\bin\Debug\net10.0\RecursionDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RecursionDemo\bin\Debug\net10.0\RecursionDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RecursionDemo\obj\Debug\net10.0\RecursionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RecursionDemo\obj\Debug\net10.0\RecursionDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RecursionDemo\obj\Debug\net10.0\RecursionDemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RecursionDemo\obj\Debug\net10.0\RecursionDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RecursionDemo\obj\Debug\net10.0\RecursionDemo.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RecursionDemo\obj\Debug\net10.0\RecursionDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RecursionDemo\obj\Debug\net10.0\refint\RecursionDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RecursionDemo\obj\Debug\net10.0\RecursionDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RecursionDemo\obj\Debug\net10.0\RecursionDemo.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RecursionDemo\obj\Debug\net10.0\ref\RecursionDemo.dll

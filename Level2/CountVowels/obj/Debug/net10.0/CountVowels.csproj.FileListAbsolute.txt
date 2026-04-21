@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CountVowels\bin\Debug\net10.0\CountVowels.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CountVowels\bin\Debug\net10.0\CountVowels.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CountVowels\bin\Debug\net10.0\CountVowels.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CountVowels\bin\Debug\net10.0\CountVowels.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CountVowels\bin\Debug\net10.0\CountVowels.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CountVowels\obj\Debug\net10.0\CountVowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CountVowels\obj\Debug\net10.0\CountVowels.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CountVowels\obj\Debug\net10.0\CountVowels.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CountVowels\obj\Debug\net10.0\CountVowels.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CountVowels\obj\Debug\net10.0\CountVowels.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CountVowels\obj\Debug\net10.0\CountVowels.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CountVowels\obj\Debug\net10.0\refint\CountVowels.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CountVowels\obj\Debug\net10.0\CountVowels.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CountVowels\obj\Debug\net10.0\CountVowels.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CountVowels\obj\Debug\net10.0\ref\CountVowels.dll

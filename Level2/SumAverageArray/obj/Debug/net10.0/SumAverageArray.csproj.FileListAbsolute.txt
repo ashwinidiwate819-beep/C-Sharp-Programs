@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SumAverageArray\bin\Debug\net10.0\SumAverageArray.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SumAverageArray\bin\Debug\net10.0\SumAverageArray.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SumAverageArray\bin\Debug\net10.0\SumAverageArray.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SumAverageArray\bin\Debug\net10.0\SumAverageArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SumAverageArray\bin\Debug\net10.0\SumAverageArray.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SumAverageArray\obj\Debug\net10.0\SumAverageArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SumAverageArray\obj\Debug\net10.0\SumAverageArray.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SumAverageArray\obj\Debug\net10.0\SumAverageArray.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SumAverageArray\obj\Debug\net10.0\SumAverageArray.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SumAverageArray\obj\Debug\net10.0\SumAverageArray.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SumAverageArray\obj\Debug\net10.0\SumAverageArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SumAverageArray\obj\Debug\net10.0\refint\SumAverageArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SumAverageArray\obj\Debug\net10.0\SumAverageArray.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SumAverageArray\obj\Debug\net10.0\SumAverageArray.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SumAverageArray\obj\Debug\net10.0\ref\SumAverageArray.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\arrayelements\obj\Debug\net10.0\arrayelements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\arrayelements\obj\Debug\net10.0\arrayelements.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\arrayelements\obj\Debug\net10.0\arrayelements.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\arrayelements\obj\Debug\net10.0\arrayelements.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\arrayelements\obj\Debug\net10.0\arrayelements.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\arrayelements\bin\Debug\net10.0\arrayelements.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\arrayelements\bin\Debug\net10.0\arrayelements.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\arrayelements\bin\Debug\net10.0\arrayelements.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\arrayelements\bin\Debug\net10.0\arrayelements.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\arrayelements\bin\Debug\net10.0\arrayelements.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\arrayelements\obj\Debug\net10.0\arrayelements.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\arrayelements\obj\Debug\net10.0\refint\arrayelements.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\arrayelements\obj\Debug\net10.0\arrayelements.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\arrayelements\obj\Debug\net10.0\arrayelements.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\arrayelements\obj\Debug\net10.0\ref\arrayelements.dll

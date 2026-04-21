@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SearchArray\bin\Debug\net10.0\SearchArray.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SearchArray\bin\Debug\net10.0\SearchArray.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SearchArray\bin\Debug\net10.0\SearchArray.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SearchArray\bin\Debug\net10.0\SearchArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SearchArray\bin\Debug\net10.0\SearchArray.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SearchArray\obj\Debug\net10.0\SearchArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SearchArray\obj\Debug\net10.0\SearchArray.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SearchArray\obj\Debug\net10.0\SearchArray.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SearchArray\obj\Debug\net10.0\SearchArray.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SearchArray\obj\Debug\net10.0\SearchArray.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SearchArray\obj\Debug\net10.0\SearchArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SearchArray\obj\Debug\net10.0\refint\SearchArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SearchArray\obj\Debug\net10.0\SearchArray.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SearchArray\obj\Debug\net10.0\SearchArray.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SearchArray\obj\Debug\net10.0\ref\SearchArray.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ParamsDemo\bin\Debug\net10.0\ParamsDemo.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ParamsDemo\bin\Debug\net10.0\ParamsDemo.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ParamsDemo\bin\Debug\net10.0\ParamsDemo.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ParamsDemo\bin\Debug\net10.0\ParamsDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ParamsDemo\bin\Debug\net10.0\ParamsDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ParamsDemo\obj\Debug\net10.0\ParamsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ParamsDemo\obj\Debug\net10.0\ParamsDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ParamsDemo\obj\Debug\net10.0\ParamsDemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ParamsDemo\obj\Debug\net10.0\ParamsDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ParamsDemo\obj\Debug\net10.0\ParamsDemo.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ParamsDemo\obj\Debug\net10.0\ParamsDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ParamsDemo\obj\Debug\net10.0\refint\ParamsDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ParamsDemo\obj\Debug\net10.0\ParamsDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ParamsDemo\obj\Debug\net10.0\ParamsDemo.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ParamsDemo\obj\Debug\net10.0\ref\ParamsDemo.dll

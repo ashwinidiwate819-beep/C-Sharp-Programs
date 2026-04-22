@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\namedArguments\bin\Debug\net10.0\NamedArguments.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\namedArguments\bin\Debug\net10.0\NamedArguments.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\namedArguments\bin\Debug\net10.0\NamedArguments.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\namedArguments\bin\Debug\net10.0\NamedArguments.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\namedArguments\bin\Debug\net10.0\NamedArguments.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\namedArguments\obj\Debug\net10.0\NamedArguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\namedArguments\obj\Debug\net10.0\NamedArguments.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\namedArguments\obj\Debug\net10.0\NamedArguments.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\namedArguments\obj\Debug\net10.0\NamedArguments.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\namedArguments\obj\Debug\net10.0\NamedArguments.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\namedArguments\obj\Debug\net10.0\NamedArguments.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\namedArguments\obj\Debug\net10.0\refint\NamedArguments.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\namedArguments\obj\Debug\net10.0\NamedArguments.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\namedArguments\obj\Debug\net10.0\NamedArguments.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\namedArguments\obj\Debug\net10.0\ref\NamedArguments.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\OutRefDemo\bin\Debug\net10.0\OutRefDemo.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\OutRefDemo\bin\Debug\net10.0\OutRefDemo.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\OutRefDemo\bin\Debug\net10.0\OutRefDemo.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\OutRefDemo\bin\Debug\net10.0\OutRefDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\OutRefDemo\bin\Debug\net10.0\OutRefDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\OutRefDemo\obj\Debug\net10.0\OutRefDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\OutRefDemo\obj\Debug\net10.0\OutRefDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\OutRefDemo\obj\Debug\net10.0\OutRefDemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\OutRefDemo\obj\Debug\net10.0\OutRefDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\OutRefDemo\obj\Debug\net10.0\OutRefDemo.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\OutRefDemo\obj\Debug\net10.0\OutRefDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\OutRefDemo\obj\Debug\net10.0\refint\OutRefDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\OutRefDemo\obj\Debug\net10.0\OutRefDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\OutRefDemo\obj\Debug\net10.0\OutRefDemo.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\OutRefDemo\obj\Debug\net10.0\ref\OutRefDemo.dll

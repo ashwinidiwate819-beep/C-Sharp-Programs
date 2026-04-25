@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\DuplicateElementsArray\bin\Debug\net10.0\DuplicateElementsArray.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\DuplicateElementsArray\bin\Debug\net10.0\DuplicateElementsArray.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\DuplicateElementsArray\bin\Debug\net10.0\DuplicateElementsArray.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\DuplicateElementsArray\bin\Debug\net10.0\DuplicateElementsArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\DuplicateElementsArray\bin\Debug\net10.0\DuplicateElementsArray.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\DuplicateElementsArray\obj\Debug\net10.0\DuplicateElementsArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\DuplicateElementsArray\obj\Debug\net10.0\DuplicateElementsArray.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\DuplicateElementsArray\obj\Debug\net10.0\DuplicateElementsArray.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\DuplicateElementsArray\obj\Debug\net10.0\DuplicateElementsArray.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\DuplicateElementsArray\obj\Debug\net10.0\DuplicateElementsArray.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\DuplicateElementsArray\obj\Debug\net10.0\DuplicateElementsArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\DuplicateElementsArray\obj\Debug\net10.0\refint\DuplicateElementsArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\DuplicateElementsArray\obj\Debug\net10.0\DuplicateElementsArray.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\DuplicateElementsArray\obj\Debug\net10.0\DuplicateElementsArray.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\DuplicateElementsArray\obj\Debug\net10.0\ref\DuplicateElementsArray.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CommonElementsArray\bin\Debug\net10.0\CommonElementsArray.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CommonElementsArray\bin\Debug\net10.0\CommonElementsArray.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CommonElementsArray\bin\Debug\net10.0\CommonElementsArray.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CommonElementsArray\bin\Debug\net10.0\CommonElementsArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CommonElementsArray\bin\Debug\net10.0\CommonElementsArray.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CommonElementsArray\obj\Debug\net10.0\CommonElementsArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CommonElementsArray\obj\Debug\net10.0\CommonElementsArray.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CommonElementsArray\obj\Debug\net10.0\CommonElementsArray.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CommonElementsArray\obj\Debug\net10.0\CommonElementsArray.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CommonElementsArray\obj\Debug\net10.0\CommonElementsArray.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CommonElementsArray\obj\Debug\net10.0\CommonElementsArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CommonElementsArray\obj\Debug\net10.0\refint\CommonElementsArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CommonElementsArray\obj\Debug\net10.0\CommonElementsArray.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CommonElementsArray\obj\Debug\net10.0\CommonElementsArray.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\CommonElementsArray\obj\Debug\net10.0\ref\CommonElementsArray.dll

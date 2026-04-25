@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReadDisplayArray\bin\Debug\net10.0\ReadDisplayArray.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReadDisplayArray\bin\Debug\net10.0\ReadDisplayArray.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReadDisplayArray\bin\Debug\net10.0\ReadDisplayArray.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReadDisplayArray\bin\Debug\net10.0\ReadDisplayArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReadDisplayArray\bin\Debug\net10.0\ReadDisplayArray.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReadDisplayArray\obj\Debug\net10.0\ReadDisplayArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReadDisplayArray\obj\Debug\net10.0\ReadDisplayArray.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReadDisplayArray\obj\Debug\net10.0\ReadDisplayArray.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReadDisplayArray\obj\Debug\net10.0\ReadDisplayArray.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReadDisplayArray\obj\Debug\net10.0\ReadDisplayArray.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReadDisplayArray\obj\Debug\net10.0\ReadDisplayArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReadDisplayArray\obj\Debug\net10.0\refint\ReadDisplayArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReadDisplayArray\obj\Debug\net10.0\ReadDisplayArray.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReadDisplayArray\obj\Debug\net10.0\ReadDisplayArray.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ReadDisplayArray\obj\Debug\net10.0\ref\ReadDisplayArray.dll

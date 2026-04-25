@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValidateEmail\bin\Debug\net10.0\ValidateEmail.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValidateEmail\bin\Debug\net10.0\ValidateEmail.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValidateEmail\bin\Debug\net10.0\ValidateEmail.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValidateEmail\bin\Debug\net10.0\ValidateEmail.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValidateEmail\bin\Debug\net10.0\ValidateEmail.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValidateEmail\obj\Debug\net10.0\ValidateEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValidateEmail\obj\Debug\net10.0\ValidateEmail.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValidateEmail\obj\Debug\net10.0\ValidateEmail.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValidateEmail\obj\Debug\net10.0\ValidateEmail.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValidateEmail\obj\Debug\net10.0\ValidateEmail.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValidateEmail\obj\Debug\net10.0\ValidateEmail.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValidateEmail\obj\Debug\net10.0\refint\ValidateEmail.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValidateEmail\obj\Debug\net10.0\ValidateEmail.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValidateEmail\obj\Debug\net10.0\ValidateEmail.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValidateEmail\obj\Debug\net10.0\ref\ValidateEmail.dll

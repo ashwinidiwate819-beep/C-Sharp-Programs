@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "RemoveSpecialCharacters/1.0.0": {
+        "runtime": {
+          "RemoveSpecialCharacters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RemoveSpecialCharacters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

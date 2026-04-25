@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveSpecialCharacters\bin\Debug\net10.0\RemoveSpecialCharacters.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveSpecialCharacters\bin\Debug\net10.0\RemoveSpecialCharacters.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveSpecialCharacters\bin\Debug\net10.0\RemoveSpecialCharacters.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveSpecialCharacters\bin\Debug\net10.0\RemoveSpecialCharacters.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveSpecialCharacters\bin\Debug\net10.0\RemoveSpecialCharacters.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveSpecialCharacters\obj\Debug\net10.0\RemoveSpecialCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveSpecialCharacters\obj\Debug\net10.0\RemoveSpecialCharacters.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveSpecialCharacters\obj\Debug\net10.0\RemoveSpecialCharacters.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveSpecialCharacters\obj\Debug\net10.0\RemoveSpecialCharacters.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveSpecialCharacters\obj\Debug\net10.0\RemoveSpecialCharacters.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveSpecialCharacters\obj\Debug\net10.0\RemoveSpecialCharacters.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveSpecialCharacters\obj\Debug\net10.0\refint\RemoveSpecialCharacters.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveSpecialCharacters\obj\Debug\net10.0\RemoveSpecialCharacters.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveSpecialCharacters\obj\Debug\net10.0\RemoveSpecialCharacters.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RemoveSpecialCharacters\obj\Debug\net10.0\ref\RemoveSpecialCharacters.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RegexDemo\bin\Debug\net10.0\RegexDemo.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RegexDemo\bin\Debug\net10.0\RegexDemo.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RegexDemo\bin\Debug\net10.0\RegexDemo.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RegexDemo\bin\Debug\net10.0\RegexDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RegexDemo\bin\Debug\net10.0\RegexDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RegexDemo\obj\Debug\net10.0\RegexDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RegexDemo\obj\Debug\net10.0\RegexDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RegexDemo\obj\Debug\net10.0\RegexDemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RegexDemo\obj\Debug\net10.0\RegexDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RegexDemo\obj\Debug\net10.0\RegexDemo.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RegexDemo\obj\Debug\net10.0\RegexDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RegexDemo\obj\Debug\net10.0\refint\RegexDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RegexDemo\obj\Debug\net10.0\RegexDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RegexDemo\obj\Debug\net10.0\RegexDemo.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\RegexDemo\obj\Debug\net10.0\ref\RegexDemo.dll

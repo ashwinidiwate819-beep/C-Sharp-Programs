@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValueVsReferenceDemo\bin\Debug\net10.0\ValueVsReferenceDemo.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValueVsReferenceDemo\bin\Debug\net10.0\ValueVsReferenceDemo.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValueVsReferenceDemo\bin\Debug\net10.0\ValueVsReferenceDemo.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValueVsReferenceDemo\bin\Debug\net10.0\ValueVsReferenceDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValueVsReferenceDemo\bin\Debug\net10.0\ValueVsReferenceDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValueVsReferenceDemo\obj\Debug\net10.0\ValueVsReferenceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValueVsReferenceDemo\obj\Debug\net10.0\ValueVsReferenceDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValueVsReferenceDemo\obj\Debug\net10.0\ValueVsReferenceDemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValueVsReferenceDemo\obj\Debug\net10.0\ValueVsReferenceDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValueVsReferenceDemo\obj\Debug\net10.0\ValueVsReferenceDemo.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValueVsReferenceDemo\obj\Debug\net10.0\ValueVsReferenceDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValueVsReferenceDemo\obj\Debug\net10.0\refint\ValueVsReferenceDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValueVsReferenceDemo\obj\Debug\net10.0\ValueVsReferenceDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValueVsReferenceDemo\obj\Debug\net10.0\ValueVsReferenceDemo.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\ValueVsReferenceDemo\obj\Debug\net10.0\ref\ValueVsReferenceDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SpanDemo\bin\Debug\net10.0\SpanDemo.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SpanDemo\bin\Debug\net10.0\SpanDemo.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SpanDemo\bin\Debug\net10.0\SpanDemo.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SpanDemo\bin\Debug\net10.0\SpanDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SpanDemo\bin\Debug\net10.0\SpanDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SpanDemo\obj\Debug\net10.0\SpanDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SpanDemo\obj\Debug\net10.0\SpanDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SpanDemo\obj\Debug\net10.0\SpanDemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SpanDemo\obj\Debug\net10.0\SpanDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SpanDemo\obj\Debug\net10.0\SpanDemo.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SpanDemo\obj\Debug\net10.0\SpanDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SpanDemo\obj\Debug\net10.0\refint\SpanDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SpanDemo\obj\Debug\net10.0\SpanDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SpanDemo\obj\Debug\net10.0\SpanDemo.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\SpanDemo\obj\Debug\net10.0\ref\SpanDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MultiDimensionalArrayDemo\bin\Debug\net10.0\MultiDimensionalArrayDemo.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MultiDimensionalArrayDemo\bin\Debug\net10.0\MultiDimensionalArrayDemo.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MultiDimensionalArrayDemo\bin\Debug\net10.0\MultiDimensionalArrayDemo.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MultiDimensionalArrayDemo\bin\Debug\net10.0\MultiDimensionalArrayDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MultiDimensionalArrayDemo\bin\Debug\net10.0\MultiDimensionalArrayDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MultiDimensionalArrayDemo\obj\Debug\net10.0\MultiDimensionalArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MultiDimensionalArrayDemo\obj\Debug\net10.0\MultiDimensionalArrayDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MultiDimensionalArrayDemo\obj\Debug\net10.0\MultiDimensionalArrayDemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MultiDimensionalArrayDemo\obj\Debug\net10.0\MultiDimensionalArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MultiDimensionalArrayDemo\obj\Debug\net10.0\MultiDimensionalArrayDemo.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MultiDimensionalArrayDemo\obj\Debug\net10.0\MultiDimensionalArrayDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MultiDimensionalArrayDemo\obj\Debug\net10.0\refint\MultiDimensionalArrayDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MultiDimensionalArrayDemo\obj\Debug\net10.0\MultiDimensionalArrayDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MultiDimensionalArrayDemo\obj\Debug\net10.0\MultiDimensionalArrayDemo.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MultiDimensionalArrayDemo\obj\Debug\net10.0\ref\MultiDimensionalArrayDemo.dll

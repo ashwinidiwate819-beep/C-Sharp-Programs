@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringUpperLower\bin\Debug\net10.0\StringUpperLower.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringUpperLower\bin\Debug\net10.0\StringUpperLower.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringUpperLower\bin\Debug\net10.0\StringUpperLower.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringUpperLower\bin\Debug\net10.0\StringUpperLower.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringUpperLower\bin\Debug\net10.0\StringUpperLower.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringUpperLower\obj\Debug\net10.0\StringUpperLower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringUpperLower\obj\Debug\net10.0\StringUpperLower.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringUpperLower\obj\Debug\net10.0\StringUpperLower.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringUpperLower\obj\Debug\net10.0\StringUpperLower.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringUpperLower\obj\Debug\net10.0\StringUpperLower.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringUpperLower\obj\Debug\net10.0\StringUpperLower.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringUpperLower\obj\Debug\net10.0\refint\StringUpperLower.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringUpperLower\obj\Debug\net10.0\StringUpperLower.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringUpperLower\obj\Debug\net10.0\StringUpperLower.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringUpperLower\obj\Debug\net10.0\ref\StringUpperLower.dll

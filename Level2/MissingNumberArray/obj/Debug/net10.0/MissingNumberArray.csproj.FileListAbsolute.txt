@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MissingNumberArray\bin\Debug\net10.0\MissingNumberArray.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MissingNumberArray\bin\Debug\net10.0\MissingNumberArray.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MissingNumberArray\bin\Debug\net10.0\MissingNumberArray.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MissingNumberArray\bin\Debug\net10.0\MissingNumberArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MissingNumberArray\bin\Debug\net10.0\MissingNumberArray.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MissingNumberArray\obj\Debug\net10.0\MissingNumberArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MissingNumberArray\obj\Debug\net10.0\MissingNumberArray.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MissingNumberArray\obj\Debug\net10.0\MissingNumberArray.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MissingNumberArray\obj\Debug\net10.0\MissingNumberArray.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MissingNumberArray\obj\Debug\net10.0\MissingNumberArray.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MissingNumberArray\obj\Debug\net10.0\MissingNumberArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MissingNumberArray\obj\Debug\net10.0\refint\MissingNumberArray.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MissingNumberArray\obj\Debug\net10.0\MissingNumberArray.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MissingNumberArray\obj\Debug\net10.0\MissingNumberArray.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\MissingNumberArray\obj\Debug\net10.0\ref\MissingNumberArray.dll

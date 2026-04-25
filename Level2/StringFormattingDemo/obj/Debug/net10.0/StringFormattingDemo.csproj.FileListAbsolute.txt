@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringFormattingDemo\bin\Debug\net10.0\StringFormattingDemo.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringFormattingDemo\bin\Debug\net10.0\StringFormattingDemo.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringFormattingDemo\bin\Debug\net10.0\StringFormattingDemo.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringFormattingDemo\bin\Debug\net10.0\StringFormattingDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringFormattingDemo\bin\Debug\net10.0\StringFormattingDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringFormattingDemo\obj\Debug\net10.0\StringFormattingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringFormattingDemo\obj\Debug\net10.0\StringFormattingDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringFormattingDemo\obj\Debug\net10.0\StringFormattingDemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringFormattingDemo\obj\Debug\net10.0\StringFormattingDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringFormattingDemo\obj\Debug\net10.0\StringFormattingDemo.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringFormattingDemo\obj\Debug\net10.0\StringFormattingDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringFormattingDemo\obj\Debug\net10.0\refint\StringFormattingDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringFormattingDemo\obj\Debug\net10.0\StringFormattingDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringFormattingDemo\obj\Debug\net10.0\StringFormattingDemo.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\StringFormattingDemo\obj\Debug\net10.0\ref\StringFormattingDemo.dll

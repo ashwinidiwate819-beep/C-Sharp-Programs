@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\JaggedArrayDemo\bin\Debug\net10.0\JaggedArrayDemo.exe
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\JaggedArrayDemo\bin\Debug\net10.0\JaggedArrayDemo.deps.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\JaggedArrayDemo\bin\Debug\net10.0\JaggedArrayDemo.runtimeconfig.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\JaggedArrayDemo\bin\Debug\net10.0\JaggedArrayDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\JaggedArrayDemo\bin\Debug\net10.0\JaggedArrayDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\JaggedArrayDemo\obj\Debug\net10.0\JaggedArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\JaggedArrayDemo\obj\Debug\net10.0\JaggedArrayDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\JaggedArrayDemo\obj\Debug\net10.0\JaggedArrayDemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\JaggedArrayDemo\obj\Debug\net10.0\JaggedArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\JaggedArrayDemo\obj\Debug\net10.0\JaggedArrayDemo.sourcelink.json
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\JaggedArrayDemo\obj\Debug\net10.0\JaggedArrayDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\JaggedArrayDemo\obj\Debug\net10.0\refint\JaggedArrayDemo.dll
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\JaggedArrayDemo\obj\Debug\net10.0\JaggedArrayDemo.pdb
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\JaggedArrayDemo\obj\Debug\net10.0\JaggedArrayDemo.genruntimeconfig.cache
+C:\Users\HP\Desktop\C-Sharp-Programs\Level2\JaggedArrayDemo\obj\Debug\net10.0\ref\JaggedArrayDemo.dll
